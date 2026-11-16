@@ -104,7 +104,7 @@ This is an educational analysis of randomly generated data. A high-value transac
 
 ## Author
 
-**Avaz — Aspiring Data Analyst**
+**Avaz — Data Analyst**
 
 Python · NumPy · Pandas · SQL · Data Analysis
 
